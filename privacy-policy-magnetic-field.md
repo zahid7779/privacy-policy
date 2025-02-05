@@ -2,7 +2,7 @@
 
 **Last Updated:** February 5, 2025  
 **Developer:** Mohammad Zahidur Rahman  
-**Contact Email:** [zrahman7779@gmail.com](mailto:zrahman7779@gmail.com)  
+**Contact Email:** [zrahman7779@gmail.com](mailto:zrahman7779@gmail.com) 
 
 ## 1. Introduction
 Thank you for using the **Magnetic Field Risk Detector App**. Your privacy is important to us. This policy explains how we handle user data, including sensor readings, ads, and permissions.
